@@ -2,7 +2,7 @@
 
 Voice Controlled Home Automation using IoT
 
-1) Hardware Devices are : Arduino UNO,Breadboard,Bluetooth Module HC-05,Jumper Wires,220 ohm Resistors,$ LEDs.
+1) Hardware Devices are : Arduino UNO,Breadboard,Bluetooth Module HC-05,Jumper Wires,220 ohm Resistors,4 LEDs.
 2) Firstly, We had build the hardware connections.
 Bluetooth Module HC-05                Arduino UNO
               TX ——————————————————————— RX (Pin 0)
